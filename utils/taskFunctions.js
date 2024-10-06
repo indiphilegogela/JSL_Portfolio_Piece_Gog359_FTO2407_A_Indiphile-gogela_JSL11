@@ -10,7 +10,7 @@ export const getTasks = () => {
 const saveTasks = (tasks) => {
   localStorage.setItem('tasks', JSON.stringify(tasks));
 };
-
+ 
 export const createNewTask = (task) => {
   const tasks = getTasks(); // Retrieve existing tasks
   const newTask = { ...task, id: new Date().getTime() }; // Create new task with unique ID
