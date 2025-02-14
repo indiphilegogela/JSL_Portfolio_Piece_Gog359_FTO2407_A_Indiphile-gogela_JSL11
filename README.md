@@ -4,6 +4,8 @@ Welcome to the Agile Board project, the final project for the JSL course! In thi
 
 Additionally, you will enhance the application by crafting code to meet specific functionalities outlined in the user stories, like managing task details and their lifecycle, toggling theme customization, and ensuring the persistence of data through local storage. This blend of debugging and creative coding invites you to apply your critical thinking and problem-solving skills in a hands-on manner, equipping you for the intricacies of real-world software development scenarios.
 
+loom video presentation: https://github.com/indiphilegogela/JSL_Portfolio_Piece_Gog359_FTO2407_A_Indiphile-gogela_JSL11
+
 We're providing you with a head start:
 
 - **Starter Code**: You will receive starter code for the user interface (UI) of the application. This includes the basic layout and some of the JavaScript (JS) functionality needed to make the app interactive.
